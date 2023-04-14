@@ -1,2 +1,2 @@
-# PMS
-PastorMejiaSermons.com
+# pastorandersonsermons
+PastorAndersonSermons.com
